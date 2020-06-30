@@ -1,4 +1,4 @@
-"# validation-study-project10" 
+# validation-study-project10
 
 Версия 0.0.1
 
